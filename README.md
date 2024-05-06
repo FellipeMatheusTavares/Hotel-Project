@@ -27,5 +27,6 @@ Execute o programa: java HotelSimulation.
  - [GabriellMatias]
  - [Joao Pedro de Alcantra]
  - [Victor]
+ - [Fellipe Matheus Tavares]
 ## Licença ⚖️
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE.md] para detalhes.
